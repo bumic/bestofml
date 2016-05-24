@@ -3,21 +3,21 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 RESEARCH PAPERS
 
-http://arxiv.org/list/cs.NE/recent
+[ArXiv: Most recent Neural and Evolutionary Computing](http://arxiv.org/list/cs.NE/recent)
 
-http://arxiv.org/list/cs.AI/recent
+[ArXiv: Most Recent Artificial Intelligence](http://arxiv.org/list/cs.AI/recent)
 
-http://arxiv.org/list/cs.CV/recent
+[ArXiv: Most Recent Computer Vision and Pattern Recognition]http://arxiv.org/list/cs.CV/recent
 
 NEURAL NETWORKS
 
-http://deeplearning.stanford.edu/wiki/index.php/Neural_Networks
+[Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 
-http://cs229.stanford.edu/materials.html
+[Stanford's CS229 Machine Learning](http://cs229.stanford.edu/materials.html)
 
-https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+[Hugo Larochelle's Neural Network video series](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+[Colah's Blog LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 UDACITY ML SERIES
 
