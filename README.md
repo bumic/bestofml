@@ -7,7 +7,7 @@ RESEARCH PAPERS
 
 [ArXiv: Most Recent Artificial Intelligence](http://arxiv.org/list/cs.AI/recent)
 
-[ArXiv: Most Recent Computer Vision and Pattern Recognition]http://arxiv.org/list/cs.CV/recent
+[ArXiv: Most Recent Computer Vision and Pattern Recognition](http://arxiv.org/list/cs.CV/recent)
 
 NEURAL NETWORKS
 
