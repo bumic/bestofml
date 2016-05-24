@@ -3,11 +3,18 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 RESEARCH PAPERS
 
-NEURAL NETWORKS
-http://deeplearning.stanford.edu/wiki/index.php/Neural_Networks
-http://cs229.stanford.edu/materials.html
-https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
+http://arxiv.org/list/cs.NE/recent
 
-LSTM
+http://arxiv.org/list/cs.AI/recent
+
+http://arxiv.org/list/cs.CV/recent
+
+NEURAL NETWORKS
+
+http://deeplearning.stanford.edu/wiki/index.php/Neural_Networks
+
+http://cs229.stanford.edu/materials.html
+
+https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
