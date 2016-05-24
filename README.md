@@ -3,6 +3,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ## RESEARCH PAPERS
 
+### DeepMind
+[A Wealth of Interesting Pointers](https://deepmind.com/publications.html)
+
 ### ArXiv Most Recent Papers
 
 [Neural and Evolutionary Computing](http://arxiv.org/list/cs.NE/recent)
