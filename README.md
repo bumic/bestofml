@@ -4,6 +4,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 RESEARCH PAPERS
 
 NEURAL NETWORKS
+http://deeplearning.stanford.edu/wiki/index.php/Neural_Networks
+http://cs229.stanford.edu/materials.html
+https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
 LSTM
 
