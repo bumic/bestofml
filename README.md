@@ -1,5 +1,5 @@
 # bestofml
-A repository for sharing "best of" resources for learning machine learning. This repository - suggested by Tommy Unger - burgeoned from the Boston University LISP (Learning, Intelligence, and Signal Processing) research group 2016 summer reading group.
+A repository for sharing "best of" resources for learning machine learning. This repository - suggested by Tommy Unger - burgeoned from the Boston University LISP (Learning, Intelligence, and Signal Processing) research group's 2016 machine learning summer reading group.
 
 RESEARCH PAPERS
 
