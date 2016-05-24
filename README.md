@@ -23,11 +23,15 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Neural Networks and Deep Learning: Awesome Ebook](http://neuralnetworksanddeeplearning.com/index.html)
 
+[Rojas Neural Networks: A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/neuron.pdf)
+
 ### LSTM
 
 [Colah's Blog LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 [Anyone Can Learn To Code an LSTM-RNN in Python](https://iamtrask.github.io//2015/11/15/anyone-can-code-lstm/)
+
+[How to Code and Understand DeepMind's Neural Stack Machine](https://iamtrask.github.io//2016/02/25/deepminds-neural-stack-machine/)
 
 ### TORCH
 [NN documentation](https://github.com/torch/nn/tree/master/doc)
@@ -38,8 +42,15 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
 
+[Torch Demos](https://github.com/torch/demos)
+
 ### UDACITY ML SERIES
 
 [Supervised, Unsupervised, and Reinforcement Learning](https://www.udacity.com/course/machine-learning--ud262)
 
 [More Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+
+### MATH
+[Linear Xforms](http://linear.ups.edu/html/section-LT.html)
+
+[Notes on Minsky's Perceptrons](http://www.cacs.louisiana.edu/~maida/Classes/csce588/chapter6_supervisedLearning_weekOfMar30.pdf)
