@@ -91,6 +91,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [i am trask blog](https://iamtrask.github.io/)
 
+[Michael Nielsen](http://michaelnielsen.org/)
+
 ###Datasets
 
 [Kaggle](https://www.kaggle.com/datasets)
