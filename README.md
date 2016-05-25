@@ -60,12 +60,41 @@ A repository for sharing "best of" resources for learning machine learning. This
 [More Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 ### MATH
+[Calc on Computational Graphs](http://colah.github.io/posts/2015-08-Backprop/)
+
 [Linear Xforms](http://linear.ups.edu/html/section-LT.html)
 
 [Notes on Minsky's Perceptrons](http://www.cacs.louisiana.edu/~maida/Classes/csce588/chapter6_supervisedLearning_weekOfMar30.pdf)
+
+[Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 
 ### COMPETITIONS
 
 ##[Kaggle](https://www.kaggle.com/)
 
 ##[Biomedical Imaging](http://grand-challenge.org/All_Challenges/)
+
+###Visualization
+[Crazy 3d Visualization](http://www.robertsdionne.com/bouncingball/)
+
+[TensorFlow Playground](http://playground.tensorflow.org/)
+
+[Deep Visualization](http://yosinski.com/deepvis)
+
+###Major Contributors to Watch
+
+[Andrej Karpathy Blog](http://karpathy.github.io/)
+
+[Colah's Blog](http://colah.github.io/)
+
+[Soumith Chintala](https://github.com/soumith)
+
+[i am trask blog](https://iamtrask.github.io/)
+
+###Datasets
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[DeepLearning.net](http://deeplearning.net/datasets/)
+
+[Reddit](https://www.reddit.com/r/datasets)
