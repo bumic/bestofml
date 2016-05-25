@@ -43,6 +43,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 [How to Code and Understand DeepMind's Neural Stack Machine](https://iamtrask.github.io//2016/02/25/deepminds-neural-stack-machine/)
 
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
 [Char RNN](https://github.com/karpathy/char-rnn)
 
 ### TORCH
