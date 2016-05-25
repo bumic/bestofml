@@ -14,6 +14,10 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Computer Vision and Pattern Recognition](http://arxiv.org/list/cs.CV/recent)
 
+## Other Link Aggregations
+
+[Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/wiki/index)
+
 ## NEURAL NETWORKS
 
 [A Neural Network in 11 lines of Python](https://iamtrask.github.io//2015/07/12/basic-python-network/)
@@ -27,6 +31,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Neural Networks and Deep Learning: Awesome Ebook](http://neuralnetworksanddeeplearning.com/index.html)
 
 [Rojas Neural Networks: A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/neuron.pdf)
+
+[Andrej Karpathy's CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/assignments2016/assignment1/)
 
 ### LSTM
 
