@@ -17,6 +17,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 ## Other Link Aggregations
 
 [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/wiki/index)
+[Stanford UFLDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
 
 ## NEURAL NETWORKS
 
@@ -74,9 +75,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ### COMPETITIONS
 
-##[Kaggle](https://www.kaggle.com/)
+[Kaggle](https://www.kaggle.com/)
 
-##[Biomedical Imaging](http://grand-challenge.org/All_Challenges/)
+[Biomedical Imaging](http://grand-challenge.org/All_Challenges/)
 
 ###Visualization
 [Crazy 3d Visualization](http://www.robertsdionne.com/bouncingball/)
