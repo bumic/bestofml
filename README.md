@@ -63,3 +63,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Linear Xforms](http://linear.ups.edu/html/section-LT.html)
 
 [Notes on Minsky's Perceptrons](http://www.cacs.louisiana.edu/~maida/Classes/csce588/chapter6_supervisedLearning_weekOfMar30.pdf)
+
+### COMPETITIONS
+
+##[Kaggle](https://www.kaggle.com/)
