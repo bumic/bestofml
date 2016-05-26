@@ -65,6 +65,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 [More Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 ### MATH
+
 [Calc on Computational Graphs](http://colah.github.io/posts/2015-08-Backprop/)
 
 [Linear Xforms](http://linear.ups.edu/html/section-LT.html)
@@ -72,6 +73,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Notes on Minsky's Perceptrons](http://www.cacs.louisiana.edu/~maida/Classes/csce588/chapter6_supervisedLearning_weekOfMar30.pdf)
 
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
+
+[Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
 
 ### COMPETITIONS
 
