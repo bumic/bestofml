@@ -16,7 +16,10 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ## Other Link Aggregations
 
+[PSML Papers](https://github.com/PSML/papers)
+
 [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/wiki/index)
+
 [Stanford UFLDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
 
 ## NEURAL NETWORKS
