@@ -21,6 +21,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ## NEURAL NETWORKS
 
+[Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+
 [A Neural Network in 11 lines of Python](https://iamtrask.github.io//2015/07/12/basic-python-network/)
 
 [Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
