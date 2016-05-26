@@ -74,7 +74,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Visual Information Theory](http://colah.github.io/posts/2015-09-Visual-Information/)
 
-[Automatic Differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation)
+[Automatic Differentiation](http://alexey.radul.name/ideas/2013/introduction-to-automatic-differentiation/#ad-tool-space)
+
+[AD on Wikipedia](https://en.wikipedia.org/wiki/Automatic_differentiation)
 
 ### COMPETITIONS
 
