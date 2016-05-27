@@ -40,6 +40,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Andrej Karpathy's CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/assignments2016/assignment1/)
 
+[Wild ML: Lots of deep learning writeups](http://www.wildml.com/)
+
 ### LSTM
 
 [Colah's Blog LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
