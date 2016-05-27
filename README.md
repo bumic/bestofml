@@ -98,6 +98,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Deep Visualization](http://yosinski.com/deepvis)
 
+[ConvNetJS Deep Learning in your browser](http://cs.stanford.edu/people/karpathy/convnetjs/)
+
 ###Major Contributors to Watch
 
 [Andrej Karpathy Blog](http://karpathy.github.io/)
