@@ -3,6 +3,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ## RESEARCH PAPERS
 
+### Google
+[Google Research Papers] (https://research.google.com/pubs/papers.html)
+
 ### DeepMind
 [A Wealth of Interesting Pointers](https://deepmind.com/publications.html)
 
@@ -85,6 +88,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [AD on Wikipedia](https://en.wikipedia.org/wiki/Automatic_differentiation)
 
+[Non-convex Optimization Blog] (http://www.offconvex.org/)
+
 ### COMPETITIONS
 
 [Kaggle](https://www.kaggle.com/)
@@ -127,7 +132,3 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Justin Domke's Weblog](https://justindomke.wordpress.com/)
 
 [Tomasz Malisiewicz's Computer Vision Blog] (http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
-
-[Non-convex Optimization Blog] (http://www.offconvex.org/)
-
-[Google Research Papers] (https://research.google.com/pubs/papers.html)
