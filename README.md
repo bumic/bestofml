@@ -125,3 +125,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Chain Rule + Dynamic Programming = Neural Networks](http://blog.ezyang.com/2011/05/neural-networks/)
 
 [Justin Domke's Weblog](https://justindomke.wordpress.com/)
+
+[Tomasz Malisiewicz's Computer Vision Blog] (http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+
+[Non-convex Optimization Blog] (http://www.offconvex.org/)
+
+[Google Research Papers] (https://research.google.com/pubs/papers.html)
