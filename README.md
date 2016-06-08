@@ -25,6 +25,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Stanford UFLDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
 
+[DL for Comp Bio](https://github.com/pimentel/deep_learning_papers)
+
 ## NEURAL NETWORKS
 
 [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
