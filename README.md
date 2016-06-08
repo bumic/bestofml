@@ -59,6 +59,10 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Char RNN](https://github.com/karpathy/char-rnn)
 
+###Convolutional Nets
+
+[Colah's Intuitive Explaination of Convolution](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
 ### TORCH
 [NN documentation](https://github.com/torch/nn/tree/master/doc)
 
