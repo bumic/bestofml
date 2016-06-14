@@ -62,6 +62,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 ###Convolutional Nets
 
 [Colah's Intuitive Explaination of Convolution](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
+
 [An Intro to Convolutional Networks in Torch: 1d](http://supercomputingblog.com/machinelearning/an-intro-to-convolutional-networks-in-torch/)
 
 ### TORCH
