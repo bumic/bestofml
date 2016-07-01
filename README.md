@@ -9,6 +9,14 @@ A repository for sharing "best of" resources for learning machine learning. This
 ### DeepMind
 [A Wealth of Interesting Pointers](https://deepmind.com/publications.html)
 
+###Facebook
+[Research at Facebook](https://research.facebook.com/publications/)
+
+###Baidu
+[Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/)
+[Big Data Lab](http://research.baidu.com/big-data-lab/)
+[Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
+
 ### ArXiv Most Recent Papers
 
 [Neural and Evolutionary Computing](http://arxiv.org/list/cs.NE/recent)
@@ -26,6 +34,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/wiki/index)
 
 [Stanford UFLDL](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
+
+[Stanford NLP Publications](http://nlp.stanford.edu/pubs/)
 
 [DL for Comp Bio](https://github.com/pimentel/deep_learning_papers)
 
