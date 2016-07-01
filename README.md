@@ -14,7 +14,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ###Baidu
 [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/)
+
 [Big Data Lab](http://research.baidu.com/big-data-lab/)
+
 [Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
 
 ### ArXiv Most Recent Papers
