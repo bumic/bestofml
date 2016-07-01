@@ -17,6 +17,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Computer Vision and Pattern Recognition](http://arxiv.org/list/cs.CV/recent)
 
+[Computation and Language](http://arxiv.org/list/cs.CL/recent)
+
 ## Other Link Aggregations
 
 [PSML Papers](https://github.com/PSML/papers)
@@ -64,17 +66,6 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Colah's Intuitive Explaination of Convolution](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 [An Intro to Convolutional Networks in Torch: 1d](http://supercomputingblog.com/machinelearning/an-intro-to-convolutional-networks-in-torch/)
-
-### TORCH
-[NN documentation](https://github.com/torch/nn/tree/master/doc)
-
-[Brief Lua Tutorial + Softmax Classifier Hello World](http://mdtux89.github.io/2015/12/11/torch-tutorial.html)
-
-[Minimal Hello World NN Tutorials](https://github.com/rudrapoudel/hello_ml)
-
-[Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
-
-[Torch Demos](https://github.com/torch/demos)
 
 ### UDACITY ML SERIES
 
@@ -124,6 +115,21 @@ A repository for sharing "best of" resources for learning machine learning. This
 [i am trask blog](https://iamtrask.github.io/)
 
 [Michael Nielsen](http://michaelnielsen.org/)
+
+###Tools
+#### TORCH
+[NN documentation](https://github.com/torch/nn/tree/master/doc)
+
+[Brief Lua Tutorial + Softmax Classifier Hello World](http://mdtux89.github.io/2015/12/11/torch-tutorial.html)
+
+[Minimal Hello World NN Tutorials](https://github.com/rudrapoudel/hello_ml)
+
+[Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
+
+[Torch Demos](https://github.com/torch/demos)
+
+####OTHER
+[Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/index.html)
 
 ###Datasets
 
