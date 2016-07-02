@@ -140,6 +140,15 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Torch Demos](https://github.com/torch/demos)
 
+####TENSORFLOW
+[TensorFlow](https://www.tensorflow.org/)
+
+####Caffe
+[Caffee](http://caffe.berkeleyvision.org/)
+
+####Theano
+[Theano](https://github.com/Theano/Theano)
+
 ####OTHER
 [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/index.html)
 
