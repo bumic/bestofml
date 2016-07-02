@@ -128,26 +128,21 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Michael Nielsen](http://michaelnielsen.org/)
 
-###Tools
-#### TORCH
-[NN documentation](https://github.com/torch/nn/tree/master/doc)
+###Frameworks
+[Torch Demos](https://github.com/torch/demos)
 
+[TensorFlow](https://www.tensorflow.org/)
+
+[Caffee](http://caffe.berkeleyvision.org/)
+
+[Theano](https://github.com/Theano/Theano)
+
+#### TORCH Tutorials
 [Brief Lua Tutorial + Softmax Classifier Hello World](http://mdtux89.github.io/2015/12/11/torch-tutorial.html)
 
 [Minimal Hello World NN Tutorials](https://github.com/rudrapoudel/hello_ml)
 
 [Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
-
-[Torch Demos](https://github.com/torch/demos)
-
-####TENSORFLOW
-[TensorFlow](https://www.tensorflow.org/)
-
-####Caffe
-[Caffee](http://caffe.berkeleyvision.org/)
-
-####Theano
-[Theano](https://github.com/Theano/Theano)
 
 ####OTHER
 [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/index.html)
