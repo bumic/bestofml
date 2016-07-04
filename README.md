@@ -61,7 +61,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Wild ML: Lots of deep learning writeups](http://www.wildml.com/)
 
-#####A Tutorial on Deep Learning Part 1
+#####A Tutorial on Deep Learning
 [Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
 
 [Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
