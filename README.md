@@ -110,6 +110,10 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Non-convex Optimization Blog] (http://www.offconvex.org/)
 
+### Scikit-learn
+
+[Data wrangling, non nn classification, clustering, regression, model selection, dimension reduction ...] (http://scikit-learn.org/stable/index.html)
+
 ### COMPETITIONS
 
 [Kaggle](https://www.kaggle.com/)
