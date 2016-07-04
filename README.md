@@ -41,7 +41,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [DL for Comp Bio](https://github.com/pimentel/deep_learning_papers)
 
-## NEURAL NETWORKS
+## NEURAL NETWORK TUTORIALS
 
 [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
@@ -60,6 +60,15 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Andrej Karpathy's CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/assignments2016/assignment1/)
 
 [Wild ML: Lots of deep learning writeups](http://www.wildml.com/)
+
+#####A Tutorial on Deep Learning Part 1
+[Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
+
+[Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
+
+[Quoc Le's Video Lectures on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
+
+
 
 ### LSTM
 
