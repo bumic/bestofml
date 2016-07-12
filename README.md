@@ -170,6 +170,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 ###Musings
 
+[大トロのブログ  (Otoro's Blog)](http://blog.otoro.net/)
+
 [Chain Rule + Dynamic Programming = Neural Networks](http://blog.ezyang.com/2011/05/neural-networks/)
 
 [Justin Domke's Weblog](https://justindomke.wordpress.com/)
