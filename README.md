@@ -141,7 +141,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Michael Nielsen](http://michaelnielsen.org/)
 
-###Frameworks
+###Frameworks/Libraries
 [Torch Demos](https://github.com/torch/demos)
 
 [TensorFlow](https://www.tensorflow.org/)
@@ -156,6 +156,10 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Minimal Hello World NN Tutorials](https://github.com/rudrapoudel/hello_ml)
 
 [Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
+
+[Torch Documentation Template](http://jucor.github.io/torch-doc-template)
+
+[Torch Documentation Template - Tensor](http://jucor.github.io/torch-doc-template/tensor.html#toc_0)
 
 ####OTHER
 [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/index.html)
