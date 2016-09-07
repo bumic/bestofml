@@ -181,3 +181,29 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Justin Domke's Weblog](https://justindomke.wordpress.com/)
 
 [Tomasz Malisiewicz's Computer Vision Blog] (http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+
+###Courses
+####Stanford
+#####CS231n - Convolutional Neural Networks for Visual Recognition
+[video lectures](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
+
+[lecture notes](http://cs231n.github.io/)
+
+#####CS229 - Machine Learning 2008
+
+[video lectures](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+
+[lecture notes](http://cs229.stanford.edu/materials.html)
+
+#####CS229d - Deep Learning for Natural Language Processing 2016
+
+[video lectures](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
+
+[lecture notes](http://cs224d.stanford.edu/syllabus.html)
+
+####Oxford
+#####Deep Learning 2015
+
+[video lectures](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+
+[lecture notes](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
