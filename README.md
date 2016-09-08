@@ -207,3 +207,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 [video lectures](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 [lecture notes](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+
+####University of California, Berkeley
+#####CS294 - Deep Reinforcement Learning 2015
+[Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
