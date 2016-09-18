@@ -12,6 +12,9 @@ A repository for sharing "best of" resources for learning machine learning. This
 ###Facebook
 [Research at Facebook](https://research.facebook.com/publications/)
 
+###IBM
+[IBM DeepQA](http://researcher.watson.ibm.com/researcher/view_group_pubs.php?grp=2099)
+
 ###Baidu
 [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/)
 
