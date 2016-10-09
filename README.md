@@ -132,6 +132,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [ConvNetJS Deep Learning in your browser](http://cs.stanford.edu/people/karpathy/convnetjs/)
 
+[Harvard's LSTMVis](http://lstm.seas.harvard.edu/)
+
 ###Major Contributors to Watch
 
 [Andrej Karpathy Blog](http://karpathy.github.io/)
