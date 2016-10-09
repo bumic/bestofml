@@ -185,6 +185,14 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Tomasz Malisiewicz's Computer Vision Blog] (http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
 
+[Denny Britz's WildML blog](http://www.wildml.com/)
+
+[r2rt](http://r2rt.com/)
+
+###Other Github collections
+
+[LeavesBreathe](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
+
 ###Courses
 ####Stanford
 #####CS231n - Convolutional Neural Networks for Visual Recognition
