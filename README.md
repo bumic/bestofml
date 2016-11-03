@@ -1,10 +1,139 @@
 # Best Of Machine Learning Resources
-A repository for sharing "best of" resources for learning machine learning. This repository - suggested by Tommy Unger - burgeoned from the Boston University LISP (Learning, Intelligence, and Signal Processing) research group's 2016 machine learning summer reading group.
+A repository for sharing "best of" resources for learning machine learning. This repository is particularly focused on neural networks. Suggested by my friend, Tommy Unger.
+
+#APPLICATION 
+
+## INTRODUCTION
+
+## NEURAL NETWORK TUTORIALS
+
+[Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+
+[A Neural Network in 11 lines of Python](https://iamtrask.github.io//2015/07/12/basic-python-network/)
+
+[Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+[Stanford's CS229 Machine Learning](http://cs229.stanford.edu/materials.html)
+
+[Hugo Larochelle's Neural Network video series](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+
+[Neural Networks and Deep Learning: Awesome Ebook](http://neuralnetworksanddeeplearning.com/index.html)
+
+[Rojas Neural Networks: A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/neuron.pdf)
+
+[Andrej Karpathy's CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/assignments2016/assignment1/)
+
+[Wild ML: Lots of deep learning writeups](http://www.wildml.com/)
+
+## Frameworks/Libraries
+
+### Framework Documentation
+
+[TensorFlow](https://www.tensorflow.org/)
+
+[Torch Demos](https://github.com/torch/demos)
+
+[Theano](https://github.com/Theano/Theano)
+
+[Keras](https://keras.io/)
+
+[Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/index.html)
+
+[Caffee](http://caffe.berkeleyvision.org/)
+
+[Scikit-learn](http://scikit-learn.org/stable/index.html)
+
+### Framework Tutorials
+
+#### TensorFlow Tutorials
+
+#### Torch Tutorials
+[Brief Lua Tutorial + Softmax Classifier Hello World](http://mdtux89.github.io/2015/12/11/torch-tutorial.html)
+
+[Minimal Hello World NN Tutorials](https://github.com/rudrapoudel/hello_ml)
+
+[Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
+
+[Torch Documentation Template](http://jucor.github.io/torch-doc-template)
+
+[Torch Documentation Template - Tensor](http://jucor.github.io/torch-doc-template/tensor.html#toc_0)
+
+###Datasets
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[DeepLearning.net](http://deeplearning.net/datasets/)
+
+[Reddit](https://www.reddit.com/r/datasets)
+
+### COMPETITIONS
+
+[Kaggle](https://www.kaggle.com/)
+
+[Biomedical Imaging](http://grand-challenge.org/All_Challenges/)
+
+### Visualization
+[Crazy 3d Visualization](http://www.robertsdionne.com/bouncingball/)
+
+[TensorFlow Playground](http://playground.tensorflow.org/)
+
+[Deep Visualization](http://yosinski.com/deepvis)
+
+[ConvNetJS Deep Learning in your browser](http://cs.stanford.edu/people/karpathy/convnetjs/)
+
+[Harvard's LSTMVis](http://lstm.seas.harvard.edu/)
+
+### Musings
+
+[大トロのブログ  (Otoro's Blog)](http://blog.otoro.net/)
+
+[Chain Rule + Dynamic Programming = Neural Networks](http://blog.ezyang.com/2011/05/neural-networks/)
+
+[Justin Domke's Weblog](https://justindomke.wordpress.com/)
+
+[Tomasz Malisiewicz's Computer Vision Blog](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
+
+[Denny Britz's WildML blog](http://www.wildml.com/)
+
+[r2rt](http://r2rt.com/)
+
+### Major Contributors to Watch
+
+[Andrej Karpathy Blog](http://karpathy.github.io/)
+
+[Colah's Blog](http://colah.github.io/)
+
+[Soumith Chintala](https://github.com/soumith)
+
+[i am trask blog](https://iamtrask.github.io/)
+
+[Michael Nielsen](http://michaelnielsen.org/)
+
+[Taehoon Kim](https://github.com/carpedm20)
+
+[LeavesBreathe](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
+
+#THEORY
+
+## INTRODUCTION
+
+### A Tutorial on Deep Learning
+[Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
+
+[Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
+
+[Quoc Le's Video Lectures on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
+
+### UDACITY ML SERIES
+
+[Supervised, Unsupervised, and Reinforcement Learning](https://www.udacity.com/course/machine-learning--ud262)
+
+[More Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 ## RESEARCH PAPERS
 
 ### Google
-[Google Research Papers] (https://research.google.com/pubs/papers.html)
+[Google Research Papers](https://research.google.com/pubs/papers.html)
 
 ### DeepMind
 [A Wealth of Interesting Pointers](https://deepmind.com/publications.html)
@@ -44,36 +173,10 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [DL for Comp Bio](https://github.com/pimentel/deep_learning_papers)
 
-## NEURAL NETWORK TUTORIALS
 
-[Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+## POPULAR NEURAL NETWORK ARCHITECTURES
 
-[A Neural Network in 11 lines of Python](https://iamtrask.github.io//2015/07/12/basic-python-network/)
-
-[Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
-
-[Stanford's CS229 Machine Learning](http://cs229.stanford.edu/materials.html)
-
-[Hugo Larochelle's Neural Network video series](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-
-[Neural Networks and Deep Learning: Awesome Ebook](http://neuralnetworksanddeeplearning.com/index.html)
-
-[Rojas Neural Networks: A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/neuron.pdf)
-
-[Andrej Karpathy's CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/assignments2016/assignment1/)
-
-[Wild ML: Lots of deep learning writeups](http://www.wildml.com/)
-
-#####A Tutorial on Deep Learning
-[Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](http://cs.stanford.edu/~quocle/tutorial1.pdf)
-
-[Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://cs.stanford.edu/~quocle/tutorial2.pdf)
-
-[Quoc Le's Video Lectures on Deep Learning](http://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
-
-
-
-### LSTM
+### LSTM Recurrent Neural Networks
 
 [Colah's Blog LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
@@ -85,17 +188,12 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Char RNN](https://github.com/karpathy/char-rnn)
 
-###Convolutional Nets
+### Convolutional Neural Networks
 
 [Colah's Intuitive Explaination of Convolution](http://colah.github.io/posts/2014-07-Understanding-Convolutions/)
 
 [An Intro to Convolutional Networks in Torch: 1d](http://supercomputingblog.com/machinelearning/an-intro-to-convolutional-networks-in-torch/)
 
-### UDACITY ML SERIES
-
-[Supervised, Unsupervised, and Reinforcement Learning](https://www.udacity.com/course/machine-learning--ud262)
-
-[More Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
 ### MATH
 
@@ -111,89 +209,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [AD on Wikipedia](https://en.wikipedia.org/wiki/Automatic_differentiation)
 
-[Non-convex Optimization Blog] (http://www.offconvex.org/)
+[Non-convex Optimization Blog](http://www.offconvex.org/)
 
-### Scikit-learn
-
-[Data wrangling, non nn classification, clustering, regression, model selection, dimension reduction ...] (http://scikit-learn.org/stable/index.html)
-
-### COMPETITIONS
-
-[Kaggle](https://www.kaggle.com/)
-
-[Biomedical Imaging](http://grand-challenge.org/All_Challenges/)
-
-###Visualization
-[Crazy 3d Visualization](http://www.robertsdionne.com/bouncingball/)
-
-[TensorFlow Playground](http://playground.tensorflow.org/)
-
-[Deep Visualization](http://yosinski.com/deepvis)
-
-[ConvNetJS Deep Learning in your browser](http://cs.stanford.edu/people/karpathy/convnetjs/)
-
-[Harvard's LSTMVis](http://lstm.seas.harvard.edu/)
-
-###Major Contributors to Watch
-
-[Andrej Karpathy Blog](http://karpathy.github.io/)
-
-[Colah's Blog](http://colah.github.io/)
-
-[Soumith Chintala](https://github.com/soumith)
-
-[i am trask blog](https://iamtrask.github.io/)
-
-[Michael Nielsen](http://michaelnielsen.org/)
-
-###Frameworks/Libraries
-[Torch Demos](https://github.com/torch/demos)
-
-[TensorFlow](https://www.tensorflow.org/)
-
-[Caffee](http://caffe.berkeleyvision.org/)
-
-[Theano](https://github.com/Theano/Theano)
-
-#### TORCH Tutorials
-[Brief Lua Tutorial + Softmax Classifier Hello World](http://mdtux89.github.io/2015/12/11/torch-tutorial.html)
-
-[Minimal Hello World NN Tutorials](https://github.com/rudrapoudel/hello_ml)
-
-[Torch Overview Slides, Many Topics](https://github.com/nicholas-leonard/slides/blob/master/torch7.md)
-
-[Torch Documentation Template](http://jucor.github.io/torch-doc-template)
-
-[Torch Documentation Template - Tensor](http://jucor.github.io/torch-doc-template/tensor.html#toc_0)
-
-####OTHER
-[Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/index.html)
-
-###Datasets
-
-[Kaggle](https://www.kaggle.com/datasets)
-
-[DeepLearning.net](http://deeplearning.net/datasets/)
-
-[Reddit](https://www.reddit.com/r/datasets)
-
-###Musings
-
-[大トロのブログ  (Otoro's Blog)](http://blog.otoro.net/)
-
-[Chain Rule + Dynamic Programming = Neural Networks](http://blog.ezyang.com/2011/05/neural-networks/)
-
-[Justin Domke's Weblog](https://justindomke.wordpress.com/)
-
-[Tomasz Malisiewicz's Computer Vision Blog] (http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
-
-[Denny Britz's WildML blog](http://www.wildml.com/)
-
-[r2rt](http://r2rt.com/)
-
-###Other Github collections
-
-[LeavesBreathe](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
 
 ###Courses
 ####Stanford
