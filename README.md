@@ -1,9 +1,7 @@
 # Best Of Machine Learning Resources
 A repository for sharing "best of" resources for learning machine learning. This repository is particularly focused on neural networks. Suggested by my friend, Tommy Unger.
 
-#APPLICATION 
-
-## INTRODUCTION
+# APPLICATION 
 
 ## NEURAL NETWORK TUTORIALS
 
@@ -58,7 +56,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [Torch Documentation Template - Tensor](http://jucor.github.io/torch-doc-template/tensor.html#toc_0)
 
-###Datasets
+### Datasets
 
 [Kaggle](https://www.kaggle.com/datasets)
 
@@ -113,7 +111,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [LeavesBreathe](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
 
-#THEORY
+# THEORY
 
 ## INTRODUCTION
 
@@ -130,6 +128,8 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [More Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
+## ADVANCED
+
 ## RESEARCH PAPERS
 
 ### Google
@@ -138,13 +138,13 @@ A repository for sharing "best of" resources for learning machine learning. This
 ### DeepMind
 [A Wealth of Interesting Pointers](https://deepmind.com/publications.html)
 
-###Facebook
+### Facebook
 [Research at Facebook](https://research.facebook.com/publications/)
 
-###IBM
+### IBM
 [IBM DeepQA](http://researcher.watson.ibm.com/researcher/view_group_pubs.php?grp=2099)
 
-###Baidu
+### Baidu
 [Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/)
 
 [Big Data Lab](http://research.baidu.com/big-data-lab/)
@@ -195,7 +195,7 @@ A repository for sharing "best of" resources for learning machine learning. This
 [An Intro to Convolutional Networks in Torch: 1d](http://supercomputingblog.com/machinelearning/an-intro-to-convolutional-networks-in-torch/)
 
 
-### MATH
+## MATH
 
 [Calc on Computational Graphs](http://colah.github.io/posts/2015-08-Backprop/)
 
@@ -212,32 +212,32 @@ A repository for sharing "best of" resources for learning machine learning. This
 [Non-convex Optimization Blog](http://www.offconvex.org/)
 
 
-###Courses
-####Stanford
-#####CS231n - Convolutional Neural Networks for Visual Recognition
+## Courses
+#### Stanford
+##### CS231n - Convolutional Neural Networks for Visual Recognition
 [video lectures](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 
 [lecture notes](http://cs231n.github.io/)
 
-#####CS229 - Machine Learning 2008
+##### CS229 - Machine Learning 2008
 
 [video lectures](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 
 [lecture notes](http://cs229.stanford.edu/materials.html)
 
-#####CS229d - Deep Learning for Natural Language Processing 2016
+##### CS229d - Deep Learning for Natural Language Processing 2016
 
 [video lectures](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 
 [lecture notes](http://cs224d.stanford.edu/syllabus.html)
 
-####Oxford
-#####Deep Learning 2015
+#### Oxford
+##### Deep Learning 2015
 
 [video lectures](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
 
 [lecture notes](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
-####University of California, Berkeley
-#####CS294 - Deep Reinforcement Learning 2015
+#### University of California, Berkeley
+##### CS294 - Deep Reinforcement Learning 2015
 [Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
