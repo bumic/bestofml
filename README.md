@@ -1,5 +1,5 @@
 # Best Of Machine Learning Resources
-A repository for sharing "best of" resources for learning machine learning. This repository is particularly focused on neural networks. Suggested by my friend, Tommy Unger.
+A repository for sharing best of resources for learning machine learning. This repository is particularly focused on neural networks. Suggested by my friend, Tommy Unger.
 
 # APPLICATION 
 
