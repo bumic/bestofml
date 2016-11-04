@@ -173,6 +173,11 @@ A repository for sharing "best of" resources for learning machine learning. This
 
 [DL for Comp Bio](https://github.com/pimentel/deep_learning_papers)
 
+[awesome-rnn](https://github.com/kjw0612/awesome-rnn)
+
+[awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
+
+[awesome-random-forest](https://github.com/kjw0612/awesome-random-forest)
 
 ## POPULAR NEURAL NETWORK ARCHITECTURES
 
