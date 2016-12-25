@@ -50,15 +50,12 @@ _A repository for sharing the best resources for learning the current state of t
 ### Courses
 ##### Stanford
 ###### CS229 - Machine Learning
+- [video lectures](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [lecture notes](http://cs229.stanford.edu/materials.html)
 
 ###### CS231n - Convolutional Neural Networks for Visual Recognition
 - [video lectures](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 - [lecture notes](http://cs231n.github.io/)
-
-###### CS229 - Machine Learning 2008
-- [video lectures](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
-- [lecture notes](http://cs229.stanford.edu/materials.html)
 
 ###### CS229d - Deep Learning for Natural Language Processing 2016
 - [video lectures](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
@@ -82,6 +79,12 @@ _A repository for sharing the best resources for learning the current state of t
 - [AD on Wikipedia](https://en.wikipedia.org/wiki/Automatic_differentiation)
 - [Non-convex Optimization Blog](http://www.offconvex.org/)
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.yrsfcvan4)
+
+### Theorems
+- [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
+There is no one best optimization algorithm.
+- [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
+A neural network using any activation function can approximate any function to an arbitrary accuracy given appropriate parameters.
 
 ### Tutorials
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
