@@ -1,5 +1,5 @@
-# Best of Neural Networks Resources
-_A repository for sharing best of resources for learning neural networks. Suggested by my friend, [Tommy Unger](https://github.com/tommy-u)._
+# Best of Machine Learning Resources
+_A repository for sharing best of resources for learning the current state of the art in machine learning. Suggested by my friend, [Tommy Unger](https://github.com/tommy-u)._
 
 # __Soft Introduction to Neural Networks Resources__
 ---
