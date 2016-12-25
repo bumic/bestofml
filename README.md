@@ -107,6 +107,16 @@ _There exist differentiable functions of arbitrarily many variables._
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Char RNN](https://github.com/karpathy/char-rnn)
 
+### Academic Research Lab Publications
+- [Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/publications/)
+- [University of Central Florida Evolutionary Complexity Research Group](http://eplex.cs.ucf.edu/publications)
+- [University of Wyoming Evolving AI Lab](http://www.evolvingai.org/publications)
+- [Stanford NLP](http://nlp.stanford.edu/pubs/)
+- [Stanford Vision Lab](http://vision.stanford.edu/publications.html)
+- [NYU Computational Intelligence, Learning, Vision, and Robotics](http://cilvr.cs.nyu.edu/doku.php?id=publications:start#publications)
+- [Harvard NLP](http://nlp.seas.harvard.edu/papers/)
+
+
 ### Industrial Research Lab Publications
 - [Open Review](https://openreview.net/)
 - [NIPS (Neural Information Processing Systems) Conference](https://papers.nips.cc/)
@@ -158,6 +168,7 @@ _There exist differentiable functions of arbitrarily many variables._
 ### COMPETITIONS
 - [Large Scale Visual Recognition Challenge](http://image-net.org/challenges/LSVRC/2016/index)
 - [Kaggle](https://www.kaggle.com/)
+- [Winograd Schema Challenge](http://commonsensereasoning.org/winograd.html)
 - [Biomedical Imaging](http://grand-challenge.org/All_Challenges/)
 - [AutoML](http://www.automl.org/)
 
