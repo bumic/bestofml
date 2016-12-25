@@ -1,9 +1,9 @@
 # Best of Machine Learning Resources
-_A repository for sharing best of resources for learning the current state of the art in machine learning. Suggested by my friend, [Tommy Unger](https://github.com/tommy-u)._
+_A repository for sharing the best resources for learning the current state of the art in machine learning. Suggested by my friend, [Tommy Unger](https://github.com/tommy-u)._
 
 # __Soft Introduction to Neural Networks Resources__
 ---
-#### Videos:
+#### Video Tutorials and Talks:
 ##### Purview of landscape
 - [The Deep End of Deep Learning | Hugo Larochelle | TEDxBoston](https://www.youtube.com/watch?v=dz_jeuWx3j0)
 - [How we teach computers to understand pictures | Fei Fei Li](https://www.youtube.com/watch?v=40riCqvRoMs)
