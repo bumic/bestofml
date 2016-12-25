@@ -152,11 +152,11 @@ _A repository for sharing the best resources for learning the current state of t
 - [AutoML](http://www.automl.org/)
 
 ### Visualization
-- [Crazy 3d Visualization](http://www.robertsdionne.com/bouncingball/)
 - [TensorFlow Playground](http://playground.tensorflow.org/)
-- [Deep Visualization](http://yosinski.com/deepvis)
 - [ConvNetJS Deep Learning in your browser](http://cs.stanford.edu/people/karpathy/convnetjs/)
 - [Harvard's LSTMVis](http://lstm.seas.harvard.edu/)
+- [Deep Visualization](http://yosinski.com/deepvis)
+- [Crazy 3D Visualization](http://www.robertsdionne.com/bouncingball/)
 
 ### Musings
 - [Google Brain's Distill Blog](http://distill.pub/)
