@@ -82,9 +82,16 @@ _A repository for sharing the best resources for learning the current state of t
 
 ### Theorems
 - [No Free Lunch Theorem](https://en.wikipedia.org/wiki/No_free_lunch_theorem)
-There is no one best optimization algorithm.
+
+_There is no one best optimization algorithm._
+
 - [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
-A neural network using any activation function can approximate any function to an arbitrary accuracy given appropriate parameters.
+
+_A neural network using any activation function can approximate any function to an arbitrary accuracy given appropriate parameters._
+
+- [Vitushkin's Theorem](http://cbcl.mit.edu/people/poggio/journals/girosi-poggio-NeuralComputation-1989.pdf)
+
+_There exist differentiable functions of arbitrarily many variables._
 
 ### Tutorials
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
