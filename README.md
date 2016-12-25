@@ -9,20 +9,27 @@ _A repository for sharing best of resources for learning neural networks. Sugges
 - [How we teach computers to understand pictures | Fei Fei Li](https://www.youtube.com/watch?v=40riCqvRoMs)
 - [Deep Learning and the Future of AI | Yann LeCun | Talk 1/2](https://www.youtube.com/watch?v=_1Cyyt-4-n8)
 - [Deep Learning and the Future of AI | Yann LeCun | Q&A 2/2](https://www.youtube.com/watch?v=w2IJD4FzYRM)
+
 ##### Application
 - [Ian Goodfellow, Google - Practical Methodology for Deploying Machine Learning #AIWTB Oct 2015](https://www.youtube.com/watch?v=NKiwFF_zBu4)
+
 ##### Convolutional Neural Networks
 - [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+
 ##### Recurrent Neural Networks
 - [Nervana - Recurrent Neural Networks](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
+
 ##### Playlists
 - [Deep Learning SIMPLIFIED](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 - [Deep Learning | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
+
 #### Visualizations:
 - [ConvNetJS MNIST demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 - [Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
+
 #### Readings:
+
 ##### General Theory
 - [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 - [A Tutorial on Deep Learning Part 1: Nonlinear Classifiers and The Backpropagation Algorithm](https://cs.stanford.edu/~quocle/tutorial1.pdf)
@@ -44,6 +51,7 @@ _A repository for sharing best of resources for learning neural networks. Sugges
 ##### Stanford
 ###### CS229 - Machine Learning
 - [lecture notes](http://cs229.stanford.edu/materials.html)
+
 ###### CS231n - Convolutional Neural Networks for Visual Recognition
 - [video lectures](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 - [lecture notes](http://cs231n.github.io/)
@@ -64,7 +72,8 @@ _A repository for sharing best of resources for learning neural networks. Sugges
 ##### University of California, Berkeley
 ###### CS294 - Deep Reinforcement Learning 2015
 - [lecture notes](http://rll.berkeley.edu/deeprlcourse/)
-### MATH
+
+### Math
 - [Calc on Computational Graphs](http://colah.github.io/posts/2015-08-Backprop/)
 - [Linear Xforms](http://linear.ups.edu/html/section-LT.html)
 - [Notes on Minsky's Perceptrons](http://www.cacs.louisiana.edu/~maida/Classes/csce588/chapter6_supervisedLearning_weekOfMar30.pdf)
@@ -73,6 +82,7 @@ _A repository for sharing best of resources for learning neural networks. Sugges
 - [AD on Wikipedia](https://en.wikipedia.org/wiki/Automatic_differentiation)
 - [Non-convex Optimization Blog](http://www.offconvex.org/)
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.yrsfcvan4)
+
 ### Tutorials
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [A Neural Network in 11 lines of Python](https://iamtrask.github.io//2015/07/12/basic-python-network/)
