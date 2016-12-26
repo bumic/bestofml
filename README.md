@@ -152,6 +152,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [Torch Documentation Template](http://jucor.github.io/torch-doc-template)
 - [Torch Documentation Template - Tensor](http://jucor.github.io/torch-doc-template/tensor.html#toc_0)
 - [An Intro to Convolutional Networks in Torch: 1d](http://supercomputingblog.com/machinelearning/an-intro-to-convolutional-networks-in-torch/)
+- [Torch Master Documentation](https://github.com/torch/nn/tree/master/doc)
 
 ### Datasets
 - [WordNet](http://wordnet.princeton.edu/)
@@ -165,7 +166,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [DeepLearning.net](http://deeplearning.net/datasets/)
 - [Reddit](https://www.reddit.com/r/datasets)
 
-### COMPETITIONS
+### Competitions
 - [Large Scale Visual Recognition Challenge](http://image-net.org/challenges/LSVRC/2016/index)
 - [Kaggle](https://www.kaggle.com/)
 - [Winograd Schema Challenge](http://commonsensereasoning.org/winograd.html)
