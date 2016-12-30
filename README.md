@@ -112,7 +112,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [Char RNN](https://github.com/karpathy/char-rnn)
 
 ### Academic Research Lab Publications
-- [Montreal Institute for Learning Algorithms](https://mila.umontreal.ca/en/publications/)
+- [Montréal Institute for Learning Algorithms](https://mila.umontreal.ca/en/publications/)
 - [University of Central Florida Evolutionary Complexity Research Group](http://eplex.cs.ucf.edu/publications)
 - [University of Wyoming Evolving AI Lab](http://www.evolvingai.org/publications)
 - [Stanford NLP](http://nlp.stanford.edu/pubs/)
@@ -132,7 +132,7 @@ _There exist differentiable functions of arbitrarily many variables._
 
 ### Conferences
 - [Open Review](https://openreview.net/)
-- [ICLR (International Conference on Learning Representations](http://www.iclr.cc/doku.php?id=iclr2017:previousyears)
+- [ICLR (International Conference on Learning Representations)](http://www.iclr.cc/doku.php?id=iclr2017:previousyears)
 - [NIPS (Neural Information Processing Systems) Conference](https://papers.nips.cc/)
 
 ## __Neural Network Application__
