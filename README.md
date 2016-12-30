@@ -144,6 +144,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [DeepMind Lab](https://github.com/deepmind/lab)
 - [OpenAI Gym](https://gym.openai.com/)
 - [OpenAI Universe](https://universe.openai.com/)
+- [DeepLearning4J](https://deeplearning4j.org/index.html)
 
 #### Torch Tutorials
 - [Brief Lua Tutorial + Softmax Classifier Hello World](http://mdtux89.github.io/2015/12/11/torch-tutorial.html)
