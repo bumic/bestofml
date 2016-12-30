@@ -122,8 +122,6 @@ _There exist differentiable functions of arbitrarily many variables._
 
 
 ### Industrial Research Lab Publications
-- [Open Review](https://openreview.net/)
-- [NIPS (Neural Information Processing Systems) Conference](https://papers.nips.cc/)
 - [Google](https://research.google.com/pubs/papers.html)
 - [DeepMind](https://deepmind.com/publications.html)
 - [Facebook](https://research.facebook.com/publications/)
@@ -131,6 +129,11 @@ _There exist differentiable functions of arbitrarily many variables._
 - [Baidu: Institute of Deep Learning](http://research.baidu.com/institute-of-deep-learning/)
 - [Baidu: Big Data Lab](http://research.baidu.com/big-data-lab/)
 - [Baidu: Silicon Valley AI Lab](http://research.baidu.com/silicon-valley-ai-lab/)
+
+### Conferences
+- [Open Review](https://openreview.net/)
+- [ICLR (International Conference on Learning Representations](http://www.iclr.cc/doku.php?id=iclr2017:previousyears)
+- [NIPS (Neural Information Processing Systems) Conference](https://papers.nips.cc/)
 
 ## __Neural Network Application__
 
