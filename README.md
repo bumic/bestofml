@@ -47,7 +47,7 @@ _A repository for sharing the best resources for learning the current state of t
 # __Advanced Neural Networks Resources__
 ---
 ## __Neural Network Theory__
-###
+### Books
 - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_1?ie=UTF8&qid=1483107774&sr=8-1&keywords=deep+learning)
 - [Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_1?s=books&ie=UTF8&qid=1483107803&sr=1-1&keywords=elements+of+statistical+learning)
 
