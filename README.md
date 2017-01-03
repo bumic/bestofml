@@ -20,6 +20,8 @@ _A repository for sharing the best resources for learning the current state of t
 - [Nervana - Recurrent Neural Networks](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
 
 ##### Playlists
+- [MIT OCW - 6.034 lecture 12a](https://www.youtube.com/watch?v=uXt8qF2Zzfo&index=12&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- [MIT OCW - 6.034 lecture 12b](https://www.youtube.com/watch?v=VrMHA3yX_QI&index=13&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [Deep Learning SIMPLIFIED](https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu)
 - [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 - [Deep Learning | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPn_OWPFT9ulXLuQrImzHfOV)
