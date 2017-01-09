@@ -30,9 +30,6 @@ _A repository for sharing the best resources for learning the current state of t
 - [ConvNetJS MNIST demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 - [Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
 
-#### Tutorials:
-- [Gentle Tensorflow Intro](http://learningtensorflow.com/getting_started/)
-
 #### Readings:
 
 ##### General Theory
@@ -103,6 +100,7 @@ _A neural network using any activation function can approximate any function to 
 _There exist differentiable functions of arbitrarily many variables._
 
 ### Tutorials
+- [Gentle Tensorflow Intro](http://learningtensorflow.com/getting_started/)
 - [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 - [A Neural Network in 11 lines of Python](https://iamtrask.github.io//2015/07/12/basic-python-network/)
 - [Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
