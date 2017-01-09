@@ -30,6 +30,9 @@ _A repository for sharing the best resources for learning the current state of t
 - [ConvNetJS MNIST demo](http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
 - [Visual Analysis for Recurrent Neural Networks](http://lstm.seas.harvard.edu/)
 
+###$ Tutorials:
+- [Gentle Tensorflow Intro](http://learningtensorflow.com/getting_started/)
+
 #### Readings:
 
 ##### General Theory
