@@ -139,6 +139,9 @@ _There exist differentiable functions of arbitrarily many variables._
 
 ## __Neural Network Application__
 
+### Deep Learning Framework Comparison
+- [Comparison: Blessed by LeCun](https://github.com/zer0n/deepframeworks/blob/master/README.md)
+
 ### Frameworks/Toolkits/Libraries
 - [TensorFlow](https://www.tensorflow.org/)
 - [Torch Demos](https://github.com/torch/demos)
