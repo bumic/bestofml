@@ -168,6 +168,9 @@ _There exist differentiable functions of arbitrarily many variables._
 - [An Intro to Convolutional Networks in Torch: 1d](http://supercomputingblog.com/machinelearning/an-intro-to-convolutional-networks-in-torch/)
 - [Torch Master Documentation](https://github.com/torch/nn/tree/master/doc)
 
+#### TensorFlow examples
+- [Hello World -> Bidirectional RNNs!](https://github.com/aymericdamien/TensorFlow-Examples)
+
 ### Datasets
 - [WordNet](http://wordnet.princeton.edu/)
 - [ImageNet](http://image-net.org/)
