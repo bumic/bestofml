@@ -169,6 +169,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [Torch Master Documentation](https://github.com/torch/nn/tree/master/doc)
 
 #### TensorFlow examples
+- [Awesome TensorFlow - A curated list of dedicated resources](https://github.com/jtoy/awesome-tensorflow)
 - [Hello World -> Bidirectional RNNs!](https://github.com/aymericdamien/TensorFlow-Examples)
 
 ### Datasets
