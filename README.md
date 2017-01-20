@@ -184,6 +184,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [DeepLearning.net](http://deeplearning.net/datasets/)
 - [Reddit](https://www.reddit.com/r/datasets)
 - [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.html)
+- [awesome-public-datasets aggregation](https://github.com/caesar0301/awesome-public-datasets)
 
 ### Competitions
 - [Large Scale Visual Recognition Challenge](http://image-net.org/challenges/LSVRC/2016/index)
