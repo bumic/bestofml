@@ -63,7 +63,7 @@ _A repository for sharing the best resources for learning the current state of t
 - [video lectures](https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 - [lecture notes](http://cs231n.github.io/)
 
-###### CS229d - Deep Learning for Natural Language Processing 2016
+###### CS224d - Deep Learning for Natural Language Processing 2016
 - [video lectures](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
 - [lecture notes](http://cs224d.stanford.edu/syllabus.html)
 
