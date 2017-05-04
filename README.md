@@ -1,7 +1,7 @@
 # Best of Machine Learning Resources
 _A repository for sharing the best resources for learning the current state of the art in machine learning. Suggested by my friend, [Tommy Unger](https://github.com/tommy-u)._
 
-# __Soft Introduction to Neural Networks Resources__
+# __Soft Introduction to Machine Learning & Neural Networks Resources__
 ---
 #### Video Tutorials and Talks:
 ##### Purview of landscape
@@ -46,7 +46,7 @@ _A repository for sharing the best resources for learning the current state of t
 ##### Recurrent Neural Networks
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-# __Advanced Neural Networks Resources__
+# __Advanced Machine Learning & Neural Networks Resources__
 ---
 ## __Neural Network Theory__
 ### Books
@@ -93,7 +93,7 @@ _There is no one best optimization algorithm._
 
 - [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
 
-_A neural network using any activation function can approximate any function to an arbitrary accuracy given appropriate parameters._
+_A neural network with at least two hidden layers using any activation function can approximate any function to an arbitrary accuracy given appropriate parameters._
 
 - [Vitushkin's Theorem](http://cbcl.mit.edu/people/poggio/journals/girosi-poggio-NeuralComputation-1989.pdf)
 
