@@ -213,6 +213,7 @@ _There exist differentiable functions of arbitrarily many variables._
 - [Michael Nielsen](http://michaelnielsen.org/)
 - [i am trask blog](https://iamtrask.github.io/)
 - [Sebastian Ruder](http://sebastianruder.com/#open)
+- [Neural Perspective](https://theneuralperspective.com/)
 
 ### Major Github Contributors to Watch
 - [Soumith Chintala](https://github.com/soumith)
