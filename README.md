@@ -15,6 +15,7 @@ _A repository for sharing the best resources for learning the current state of t
 
 ##### Convolutional Neural Networks
 - [How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
+- [Convolutionlal Visualizer](https://ezyang.github.io/convolution-visualizer/index.html)
 
 ##### Recurrent Neural Networks
 - [Nervana - Recurrent Neural Networks](https://www.youtube.com/watch?v=Ukgii7Yd_cU)
